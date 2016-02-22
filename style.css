@@ -1,0 +1,46 @@
+.mywebheader {
+	background-color: #3F8823;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.column {
+	float: left;
+}
+
+.leftcolumn {
+    height: 100vh;
+    width: 25%;
+    background-color: #FF6347;
+}
+
+.middlecolumn {
+    height: 100vh;
+    width: 50%;
+    background-color: #FFC107;
+}
+
+.rightcolumn {
+    height: 100vh;
+    width: 25%;
+    background-color: #3F51B5;
+}
+
+form {
+	text-align: center;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.mybutton {
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    background-color: #4CCCDC;
+    line-height: 70px;
+    border-radius: 10px;
+    margin: 50px auto;
+}
